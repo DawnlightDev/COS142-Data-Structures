@@ -1,0 +1,8 @@
+1,Charizard
+4,Lycanroc-Dusk
+2,Alakazam
+3,Butterfree
+5,Lurantis
+7,Nidoqueen
+6,Swampert
+8,Moltres

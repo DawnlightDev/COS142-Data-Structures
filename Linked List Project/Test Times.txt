@@ -1,0 +1,19 @@
+Array Hundred Sort time = 981909865901853ms
+Array Hundred Linear Search Time = 981950137099581ms
+Array Hundred add elements = 984524164122252ms
+Array Thousand Sort Time = 982069209834809ms
+Array Thousand Linear Search Time = 982041068289650ms
+Array Thousand add elements = 984643880886635ms
+Array HundredThousand Sort Time = 982204935671583ms
+Array HundredThousand Linear Search time = 982131245956872ms
+Array HundredThousand add elements = 984986808415707ms
+
+LL Hundred Sort time = 982315899078219ms
+LL Hundred Linear Search time = 982278504435814ms
+LL hundred add elements = 983466104541312ms
+LL Thousand sort time = 982450419258099ms
+LL thousand linear search time = 982364852944265ms
+LL thousand add elements = 983590071441245ms
+LL hundredthousand sort time = 982601407991710ms
+LL hundredthousand linear search time = 982553587050131ms
+LL hundredthousand add elements = 983761651360765ms
